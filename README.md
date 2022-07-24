@@ -1,6 +1,14 @@
 # Сайт пицца: Domino's Pizza
 
-## Пример работы: https://dominosspazzza.com/en/
-
 ## Пример сайта:
 ### ![](./photo.png)
+
+### ![](./photo1.png)
+
+### ![](./photo2.png)
+
+### ![](./photo3.png)
+
+### ![](./photo4.png)
+
+### ![](./photo5.png)
